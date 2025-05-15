@@ -1,4 +1,4 @@
-# Olá! Eu sou o Diogo! 👋✨
+# Olá mundo! Eu sou o Bruno! 👋✨
 
 🚀 Sou um desenvolvedor fullstack apaixonado por aprender e solucionar problemas através da programaçã.
 
