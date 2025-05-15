@@ -1,6 +1,6 @@
 # Olá mundo! Eu sou o Bruno! 👋✨
 
-🚀 Sou um desenvolvedor fullstack apaixonado por aprender e solucionar problemas através da programaçã.
+🚀 Sou um desenvolvedor fullstack apaixonado por aprender e solucionar problemas através da programação.
 
 🎓 Estudante da FATEC - Rubens Lara do curso de Análise e Desenvolvimento de Sistemas sempre busco por novos conhecimentos e tecnologias para agregar na minha vivência como programador.
 
@@ -11,9 +11,9 @@
 </div>
 
 ## :mechanical_arm: Conhecimentos
-###### JavaScript ┆ TypeScript ┆ React ┆ Next.js ┆ Node.js ┆ Express ┆ Nest.js ┆ C# ┆ .NET ┆ Jest ┆ HTML ┆ CSS ┆ TailwindCSS ┆ Sass ┆ Git
+###### JavaScript ┆ TypeScript ┆ React ┆ Next.js ┆ Node.js ┆ Express ┆ Nest.js ┆ Prisma ┆ PostgresSQL ┆ MySQL ┆ C# ┆ .NET ┆ Jest ┆ TailwindCSS ┆ Sass
 
-[![Knowlodges](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,nestjs,cs,dotnet,jest,html,css,tailwindcss,sass,git&theme=dark)](https://skillicons.dev)
+[![Knowledges](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,nestjs,prisma,postgres,mysql,cs,dotnet,jest,tailwindcss,sass&theme=dark)](https://skillicons.dev)
 
 
 ## :speech_balloon: Contato
